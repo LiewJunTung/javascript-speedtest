@@ -2,7 +2,7 @@
 	var fruits = ["apple", "orange", "lemon", "peach", "mandarin orange", "lime", "grapes"],
 		citrus = ["orange", "lemon", "mandarin orange", "lime"],
 		parameter = [fruits, citrus],
-		node_test = require("../src/nodejs-speedtest.js");
+		node_test = require("../src/cs_nodejs-speedtest.js");
 
 	var NBP = function(params){
 		var count = 0;
